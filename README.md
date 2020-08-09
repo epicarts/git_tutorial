@@ -1,5 +1,6 @@
 # git_tutorial
 
+##깃허브 연습을 위한 공간입니다.
 README edit test1 
 
 tetst34
